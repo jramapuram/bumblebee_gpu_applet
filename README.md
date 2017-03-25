@@ -1,4 +1,4 @@
-#bumblebee_gpu_applet
+# bumblebee_gpu_applet
 A simple tool that can be used with i3blocks in order to provide GPU usage / GPU memory usage and GPU temp for NVIDIA cards using bumblebee
 
 ## Building
